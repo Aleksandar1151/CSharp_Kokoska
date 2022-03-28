@@ -1,0 +1,10 @@
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\bin\Debug\KokoskaIgra.exe.config
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\bin\Debug\KokoskaIgra.exe
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\bin\Debug\KokoskaIgra.pdb
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\obj\Debug\KokoskaIgra.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\obj\Debug\KokoskaIgra.Form1.resources
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\obj\Debug\KokoskaIgra.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\obj\Debug\KokoskaIgra.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\obj\Debug\KokoskaIgra.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\obj\Debug\KokoskaIgra.exe
+C:\Users\Aleksandar\source\repos\KokoskaIgra\KokoskaIgra\obj\Debug\KokoskaIgra.pdb
